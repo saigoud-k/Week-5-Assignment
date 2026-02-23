@@ -17,7 +17,7 @@ All visualizations were created using Matplotlib and follow best practices inclu
 - Sorted categories for improved interpretation
 - Clean and stateless code execution
 
----
+
 
 ## Dataset
 
@@ -36,7 +36,7 @@ Data preprocessing steps:
 - Created a Year column for trend analysis
 - Categorized numeric results into Low, Normal, High
 
----
+
 
 ## Visualizations
 
@@ -65,7 +65,7 @@ Purpose:
 - Compare test frequency across years
 - Identify changes in testing patterns
 
----
+
 
 ## How to Run
 
@@ -74,7 +74,7 @@ Purpose:
 3. Run the Python script or Jupyter notebook
 4. Restart kernel and Run All to verify stateless execution
 
----
+
 
 ## Tools Used
 
@@ -82,8 +82,9 @@ Purpose:
 - Pandas
 - Matplotlib
 
----
+
 
 ## Project Status
 
 Completed and ready for submission.
+
