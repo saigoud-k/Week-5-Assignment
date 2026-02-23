@@ -47,7 +47,7 @@ Purpose:
 - Identify trends over time
 - Analyze fluctuations in average test results
 
----
+
 
 ### 2. Test Type by Result Category
 The bar chart showing distribution of Low, Normal, and High results for each test type.
@@ -56,7 +56,7 @@ Purpose:
 - Compare result distributions
 - Understand test behavior patterns
 
----
+
 
 ### 3. Lab Test Distribution by Year
 The bar chart showing the number of tests performed each year by test type.
@@ -87,4 +87,5 @@ Purpose:
 ## Project Status
 
 Completed and ready for submission.
+
 
